@@ -1,0 +1,28 @@
+﻿# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+venv/
+.env/
+.envrc
+
+# Logs
+*.log
+
+# Attachments and data files
+attachments/
+*.csv
+*.dbf
+*.xlsx
+*.xls
+*.zip
+*.bak
+*.dat
+
+# VSCode and system files
+.vscode/
+.DS_Store
+Thumbs.db
